@@ -378,9 +378,9 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/)
-- GitHub: [@seu-usuario](https://github.com/)
-- Email: seu.email@exemplo.com
+- LinkedIn: [linkedin.com/in/gian-silva-dev](https://linkedin.com/in/gian-silva-dev)
+- GitHub: [@kyso1](https://github.com/kyso1)
+- Email: antropofagia9@gmail.com
 
 ---
 
